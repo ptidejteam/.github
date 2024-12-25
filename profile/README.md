@@ -1,3 +1,6 @@
+[![CO₂ Shield](https://img.shields.io/badge/CO₂-C_0.36g-C89806)](https://overbrowsing.com/projects/co2-shield)
+[Ptidej Tool Suite](https://github.com/ptidejteam/ptidej-Ptidej): ![Apache Maven](https://github.com/ptidejteam/ptidej-Ptidej/actions/workflows/maven.yml/badge.svg)
+
 # 🌟 Welcome to the Ptidej Team
 
 **Pattern Trace Identification, Detection, and Enhancement in Java**
