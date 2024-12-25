@@ -1,6 +1,9 @@
-[![CO₂ Shield](https://img.shields.io/badge/CO₂-C_0.36g-C89806)](https://overbrowsing.com/projects/co2-shield)
+This Web page: [![CO₂ Shield](https://img.shields.io/badge/CO₂-C_0.36g-C89806)](https://overbrowsing.com/projects/co2-shield)
 
-[Ptidej Tool Suite](https://github.com/ptidejteam/ptidej-Ptidej): ![Apache Maven](https://github.com/ptidejteam/ptidej-Ptidej/actions/workflows/maven.yml/badge.svg)
+[Ptidej Tool Suite](https://github.com/ptidejteam/ptidej-Ptidej): [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+![Java](https://img.shields.io/badge/Java-orange)
+![Apache Maven](https://github.com/ptidejteam/ptidej-Ptidej/actions/workflows/maven.yml/badge.svg)
+[![CO₂ Shield](https://img.shields.io/badge/CO₂-C_0.42g-C89806)](https://overbrowsing.com/projects/co2-shield)
 
 # 🌟 Welcome to the Ptidej Team
 
