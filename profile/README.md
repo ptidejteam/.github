@@ -21,8 +21,8 @@ The Ptidej Team focuses on understanding, evaluating, and improving the quality 
 
 ### Our Vision
 
-- **Enhance Software Quality**: By utilizing design patterns and idioms, we strive to significantly improve software systems.
-- **Empirical Evaluation**: Conducting rigorous experiments to assess the effects of patterns on software quality.
+- **Enhance Software Quality**: Using design patterns, design anti-patterns,  idioms..., we strive to significantly improve software systems.
+- **Empirical Evaluation**: Conducting rigorous qualitative and quantitative experiments, we assess the effects of patterns on software quality.
 
 ---
 
@@ -41,6 +41,10 @@ We explore various research topics, including but not limited to:
 - Pattern identification in IoT software systems
 - Evaluation of design and architectural patterns
 - Quality improvement methodologies for software systems
+- Migration of legacy OO systems to (micro)services
+- Test of complex, distributed systems, e.g., IoT systems
+- Impact of architectural and design choices, e.g., ECS
+- Middleware to support reducing CO2/energy consumption
 
 👉 **Learn more about our research**: [Research Topics](https://www.ptidej.net/research)
 
