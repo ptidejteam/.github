@@ -14,6 +14,7 @@ At the **Ptidej Team**, we are dedicated to advancing the quality of IoT softwar
 👉 **Visit our website**: [ptidej.net](https://www.ptidej.net/)
 
 ---
+
 ## 💼 About Us
 
 The Ptidej Team focuses on understanding, evaluating, and improving the quality of IoT software systems. We aim to formalize patterns, identify occurrences, and enhance these occurrences while experimentally evaluating the impact of patterns on the quality of IoT software systems.
@@ -32,6 +33,7 @@ The Ptidej Team focuses on understanding, evaluating, and improving the quality 
 - **Experimental Evaluation**: Assess the impact of patterns on IoT software system quality.
 
 ---
+
 ## 🔍 Research Topics
 
 We explore various research topics, including but not limited to:
@@ -43,4 +45,7 @@ We explore various research topics, including but not limited to:
 👉 **Learn more about our research**: [Research Topics](https://www.ptidej.net/research)
 
 ---
+
 Thank you for visiting the Ptidej Team! We look forward to collaborating with you in our quest to improve the quality of IoT software systems through innovative patterns and methodologies.
+
+We're using other cool tools to conduct our research, such as the [Java profiler JProfiler](https://www.ej-technologies.com/jprofiler) and the [software power monitor JoularX](https://github.com/joular/joularjx).
